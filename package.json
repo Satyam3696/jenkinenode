@@ -1,0 +1,14 @@
+{
+  "name": "jenkinsnode",
+  "version": "1.0.0",
+  "description": "Simple Login App for Jenkins CI/CD Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Satyam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
